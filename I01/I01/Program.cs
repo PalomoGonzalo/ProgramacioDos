@@ -15,7 +15,7 @@ namespace I01
             string numeroString;
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("ingrese un pradasdasd");
+                Console.WriteLine("ingresedddddd un pradasdasd");
                 numeroString = Console.ReadLine();
                 if (int.TryParse(numeroString, out numero))
                 {
