@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion c#\I01\I01\bin\Debug\net5.0\I01.exe
+C:\Users\mati_\Documents\Programacion c#\I01\I01\bin\Debug\net5.0\I01.deps.json
+C:\Users\mati_\Documents\Programacion c#\I01\I01\bin\Debug\net5.0\I01.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion c#\I01\I01\bin\Debug\net5.0\I01.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion c#\I01\I01\bin\Debug\net5.0\I01.dll
+C:\Users\mati_\Documents\Programacion c#\I01\I01\bin\Debug\net5.0\I01.pdb
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.dll
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\refint\I01.dll
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.pdb
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\I01.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion c#\I01\I01\obj\Debug\net5.0\ref\I01.dll

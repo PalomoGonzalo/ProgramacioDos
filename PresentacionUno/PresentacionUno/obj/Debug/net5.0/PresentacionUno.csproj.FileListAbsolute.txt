@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\bin\Debug\net5.0\PresentacionUno.exe
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\bin\Debug\net5.0\PresentacionUno.deps.json
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\bin\Debug\net5.0\PresentacionUno.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\bin\Debug\net5.0\PresentacionUno.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\bin\Debug\net5.0\PresentacionUno.dll
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\bin\Debug\net5.0\PresentacionUno.pdb
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.dll
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\refint\PresentacionUno.dll
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.pdb
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\PresentacionUno.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion c#\PresentacionUno\PresentacionUno\obj\Debug\net5.0\ref\PresentacionUno.dll
