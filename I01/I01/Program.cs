@@ -7,12 +7,11 @@ namespace I01
         static void Main(string[] args)
         {
 
-            int minimo=0;
-            int maximo=0;
-            int acumulador=0;
+            int minimo = int.MaxValue;
+            int maximo = int.MinValue;
+            int acumulador = 0;
             int numero;
             decimal promedio;
-            Boolean bandera = true; 
             string numeroString;
             for (int i = 0; i < 5; i++)
             {
@@ -20,14 +19,7 @@ namespace I01
                 numeroString = Console.ReadLine();
                 if (int.TryParse(numeroString, out numero))
                 {
-                    if (bandera)
-                    {
-                        minimo = numero;
-                        maximo = numero;
-                        bandera = false;
-                    }
-
-                    else if (numero > maximo)
+                    if (numero > maximo)
                     {
                         maximo = numero;
                     }
@@ -36,17 +28,10 @@ namespace I01
                         minimo = numero;
                     }
                     acumulador += numero;
-                    
-
-
-                
-                
-                
                 }
-
             }
             promedio = Convert.ToDecimal(acumulador) / 5;
-            Console.WriteLine("el numero maximo es {0} el numero minimo es {1} y el promedio es {2}",maximo,minimo,promedio);
+            Console.WriteLine("el numero maximo es {0} el numero minimo es {1} y el promedio es {2}", maximo, minimo, promedio);
 
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mati_\\Documents\\Programacion c#\\I01\\I01\\I01.csproj": {}
+    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\I01\\I01\\I01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mati_\\Documents\\Programacion c#\\I01\\I01\\I01.csproj": {
+    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\I01\\I01\\I01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mati_\\Documents\\Programacion c#\\I01\\I01\\I01.csproj",
+        "projectUniqueName": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\I01\\I01\\I01.csproj",
         "projectName": "I01",
-        "projectPath": "C:\\Users\\mati_\\Documents\\Programacion c#\\I01\\I01\\I01.csproj",
+        "projectPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\I01\\I01\\I01.csproj",
         "packagesPath": "C:\\Users\\mati_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mati_\\Documents\\Programacion c#\\I01\\I01\\obj\\",
+        "outputPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\I01\\I01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mati_\\AppData\\Roaming\\NuGet\\NuGet.Config",
