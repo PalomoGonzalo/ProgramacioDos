@@ -13,6 +13,7 @@ namespace i02
             for (int i = 0; i < 2000; i++)
             {
                 nombre = "asdasdasdasdasdsadsad";
+                Console.WriteLine(nombre);  
             }
         }
     }
