@@ -8,7 +8,7 @@ namespace i02
         {
             string nombre;
             Console.WriteLine("Hello World!");
-            Console.WriteLine("teasteando atajos        ");
+            Console.WriteLine("teast2eando atajos        ");
 
             for (int i = 0; i < 2000; i++)
             {
