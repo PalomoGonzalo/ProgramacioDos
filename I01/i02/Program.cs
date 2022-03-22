@@ -12,7 +12,7 @@ namespace i02
 
             for (int i = 0; i < 2000; i++)
             {
-                nombre = "asdasdasdsad";
+                nombre = "asdasdasdasdasdsadsad";
             }
         }
     }
