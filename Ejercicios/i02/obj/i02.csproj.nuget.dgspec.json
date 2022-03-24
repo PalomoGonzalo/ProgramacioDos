@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mati_\\Documents\\Programacion c#\\Ejercicios\\i02\\i02.csproj": {}
+    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i02\\i02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mati_\\Documents\\Programacion c#\\Ejercicios\\i02\\i02.csproj": {
+    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i02\\i02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mati_\\Documents\\Programacion c#\\Ejercicios\\i02\\i02.csproj",
+        "projectUniqueName": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i02\\i02.csproj",
         "projectName": "i02",
-        "projectPath": "C:\\Users\\mati_\\Documents\\Programacion c#\\Ejercicios\\i02\\i02.csproj",
+        "projectPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i02\\i02.csproj",
         "packagesPath": "C:\\Users\\mati_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mati_\\Documents\\Programacion c#\\Ejercicios\\i02\\obj\\",
+        "outputPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mati_\\AppData\\Roaming\\NuGet\\NuGet.Config",

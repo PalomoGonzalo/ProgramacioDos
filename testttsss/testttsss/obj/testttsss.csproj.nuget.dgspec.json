@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i03 numeros primos\\i03 numeros primos.csproj": {}
+    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\testttsss\\testttsss\\testttsss.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i03 numeros primos\\i03 numeros primos.csproj": {
+    "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\testttsss\\testttsss\\testttsss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i03 numeros primos\\i03 numeros primos.csproj",
-        "projectName": "i03 numeros primos",
-        "projectPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i03 numeros primos\\i03 numeros primos.csproj",
+        "projectUniqueName": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\testttsss\\testttsss\\testttsss.csproj",
+        "projectName": "testttsss",
+        "projectPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\testttsss\\testttsss\\testttsss.csproj",
         "packagesPath": "C:\\Users\\mati_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\Ejercicios\\i03 numeros primos\\obj\\",
+        "outputPath": "C:\\Users\\mati_\\Documents\\Programacion Laboratorio Dos\\ProgramacioDos\\testttsss\\testttsss\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mati_\\AppData\\Roaming\\NuGet\\NuGet.Config",
