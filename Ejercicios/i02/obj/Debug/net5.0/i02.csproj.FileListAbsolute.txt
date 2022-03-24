@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\bin\Debug\net5.0\i02.exe
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\bin\Debug\net5.0\i02.deps.json
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\bin\Debug\net5.0\i02.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\bin\Debug\net5.0\i02.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\bin\Debug\net5.0\i02.dll
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\bin\Debug\net5.0\i02.pdb
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.dll
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\refint\i02.dll
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.pdb
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\i02.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i02\obj\Debug\net5.0\ref\i02.dll

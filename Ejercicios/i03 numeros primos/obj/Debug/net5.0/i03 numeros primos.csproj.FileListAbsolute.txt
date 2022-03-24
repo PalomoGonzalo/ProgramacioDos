@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\bin\Debug\net5.0\i03 numeros primos.exe
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\bin\Debug\net5.0\i03 numeros primos.deps.json
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\bin\Debug\net5.0\i03 numeros primos.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\bin\Debug\net5.0\i03 numeros primos.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\bin\Debug\net5.0\i03 numeros primos.dll
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\bin\Debug\net5.0\i03 numeros primos.pdb
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.dll
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\refint\i03 numeros primos.dll
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.pdb
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\i03 numeros primos.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion c#\Ejercicios\i03 numeros primos\obj\Debug\net5.0\ref\i03 numeros primos.dll
