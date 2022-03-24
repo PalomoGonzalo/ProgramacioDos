@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\bin\Debug\net5.0\aplicacion 3.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\bin\Debug\net5.0\aplicacion 3.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\bin\Debug\net5.0\aplicacion 3.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\bin\Debug\net5.0\aplicacion 3.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\bin\Debug\net5.0\aplicacion 3.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\bin\Debug\net5.0\aplicacion 3.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\refint\aplicacion 3.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\aplicacion 3.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\I01\aplicacion 3\obj\Debug\net5.0\ref\aplicacion 3.dll
