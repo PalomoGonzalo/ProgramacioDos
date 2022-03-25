@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\bin\Debug\net5.0\i07 recibo de sueldo.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\bin\Debug\net5.0\i07 recibo de sueldo.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\bin\Debug\net5.0\i07 recibo de sueldo.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\bin\Debug\net5.0\i07 recibo de sueldo.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\bin\Debug\net5.0\i07 recibo de sueldo.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\bin\Debug\net5.0\i07 recibo de sueldo.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\refint\i07 recibo de sueldo.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\i07 recibo de sueldo.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i07 recibo de sueldo\obj\Debug\net5.0\ref\i07 recibo de sueldo.dll

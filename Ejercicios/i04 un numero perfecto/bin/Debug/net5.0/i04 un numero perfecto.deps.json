@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "i04 un numero perfecto/1.0.0": {
+        "runtime": {
+          "i04 un numero perfecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i04 un numero perfecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

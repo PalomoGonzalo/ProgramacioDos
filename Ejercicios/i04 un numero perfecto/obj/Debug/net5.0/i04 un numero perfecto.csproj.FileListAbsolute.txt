@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\bin\Debug\net5.0\i04 un numero perfecto.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\bin\Debug\net5.0\i04 un numero perfecto.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\bin\Debug\net5.0\i04 un numero perfecto.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\bin\Debug\net5.0\i04 un numero perfecto.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\bin\Debug\net5.0\i04 un numero perfecto.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\bin\Debug\net5.0\i04 un numero perfecto.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\refint\i04 un numero perfecto.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\i04 un numero perfecto.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i04 un numero perfecto\obj\Debug\net5.0\ref\i04 un numero perfecto.dll

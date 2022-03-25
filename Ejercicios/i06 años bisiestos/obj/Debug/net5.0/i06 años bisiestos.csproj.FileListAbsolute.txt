@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\bin\Debug\net5.0\i06 años bisiestos.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\bin\Debug\net5.0\i06 años bisiestos.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\bin\Debug\net5.0\i06 años bisiestos.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\bin\Debug\net5.0\i06 años bisiestos.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\bin\Debug\net5.0\i06 años bisiestos.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\bin\Debug\net5.0\i06 años bisiestos.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\refint\i06 años bisiestos.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\i06 años bisiestos.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\i06 años bisiestos\obj\Debug\net5.0\ref\i06 años bisiestos.dll

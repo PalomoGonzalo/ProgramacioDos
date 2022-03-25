@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "i06 años bisiestos/1.0.0": {
+        "runtime": {
+          "i06 años bisiestos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i06 años bisiestos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
