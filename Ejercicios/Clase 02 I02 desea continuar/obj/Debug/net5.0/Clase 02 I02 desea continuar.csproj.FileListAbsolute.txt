@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\bin\Debug\net5.0\Clase 02 I02 desea continuar.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\bin\Debug\net5.0\Clase 02 I02 desea continuar.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\bin\Debug\net5.0\Clase 02 I02 desea continuar.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\bin\Debug\net5.0\Clase 02 I02 desea continuar.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\bin\Debug\net5.0\Clase 02 I02 desea continuar.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\bin\Debug\net5.0\Clase 02 I02 desea continuar.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\refint\Clase 02 I02 desea continuar.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\Clase 02 I02 desea continuar.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Ejercicios\Clase 02 I02 desea continuar\obj\Debug\net5.0\ref\Clase 02 I02 desea continuar.dll

@@ -7,11 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i02", "i02\i02.csproj", "{8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i03 numeros primos", "i03 numeros primos\i03 numeros primos.csproj", "{11F8C7A5-C79B-4388-AA2C-88E89DF1A3AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i04 un numero perfecto", "i04 un numero perfecto\i04 un numero perfecto.csproj", "{0BD47527-8F37-4727-B46E-FAF116EFCEE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i04 un numero perfecto", "i04 un numero perfecto\i04 un numero perfecto.csproj", "{0BD47527-8F37-4727-B46E-FAF116EFCEE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i06 años bisiestos", "i06 años bisiestos\i06 años bisiestos.csproj", "{25097B1B-D84E-4F1D-95E7-A3C0CD1C9E19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i06 años bisiestos", "i06 años bisiestos\i06 años bisiestos.csproj", "{25097B1B-D84E-4F1D-95E7-A3C0CD1C9E19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i07 recibo de sueldo", "i07 recibo de sueldo\i07 recibo de sueldo.csproj", "{2F1E69EF-63FF-4147-83AB-8B41CC5AD506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i07 recibo de sueldo", "i07 recibo de sueldo\i07 recibo de sueldo.csproj", "{2F1E69EF-63FF-4147-83AB-8B41CC5AD506}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 02 I01 validador de rangos", "Clase 02 I01 validador de rangos\Clase 02 I01 validador de rangos.csproj", "{19ADB90E-A666-4B44-BF41-5581DA7939D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 I02 desea continuar", "Clase 02 I02 desea continuar\Clase 02 I02 desea continuar.csproj", "{D8AF5106-0B4A-48CC-832C-9378DC7C26E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{2F1E69EF-63FF-4147-83AB-8B41CC5AD506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F1E69EF-63FF-4147-83AB-8B41CC5AD506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F1E69EF-63FF-4147-83AB-8B41CC5AD506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19ADB90E-A666-4B44-BF41-5581DA7939D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ADB90E-A666-4B44-BF41-5581DA7939D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19ADB90E-A666-4B44-BF41-5581DA7939D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19ADB90E-A666-4B44-BF41-5581DA7939D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AF5106-0B4A-48CC-832C-9378DC7C26E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AF5106-0B4A-48CC-832C-9378DC7C26E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AF5106-0B4A-48CC-832C-9378DC7C26E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AF5106-0B4A-48CC-832C-9378DC7C26E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

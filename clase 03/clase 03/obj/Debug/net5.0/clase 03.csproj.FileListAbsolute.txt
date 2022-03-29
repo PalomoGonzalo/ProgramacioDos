@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\bin\Debug\net5.0\clase 03.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\bin\Debug\net5.0\clase 03.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\bin\Debug\net5.0\clase 03.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\bin\Debug\net5.0\clase 03.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\bin\Debug\net5.0\clase 03.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\bin\Debug\net5.0\clase 03.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\refint\clase 03.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\clase 03.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\clase 03\clase 03\obj\Debug\net5.0\ref\clase 03.dll
