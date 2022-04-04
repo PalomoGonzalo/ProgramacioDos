@@ -40,7 +40,7 @@ namespace clase_03
             {
                 nombre = "sin nombre";
             }
-            this.nombre=nombre;
+            this.nombre=nombre.Trim();
 
         }
 

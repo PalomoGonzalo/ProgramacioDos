@@ -26,10 +26,12 @@ namespace clase_03
             Console.WriteLine("sin iguales{0}",garfiel==garfiel3);
             // Equals es un metodo de instancia que sirve para comparar un objeto con otro.
             Console.WriteLine("son iguales{0}",garfiel.Equals(garfiel2));
+            // Metodo estatico para compara si dos objetos son la misma instancia de memoria
             Console.WriteLine(ReferenceEquals(garfiel,garfiel2));
-
+            // es un metodo de instancia que devuelve un codigo unico para identificar a una 
+            // instancia a memoria
             Console.WriteLine(garfiel.GetHashCode());
-            Console.WriteLine(garfiel2.GetHashCode());
+           // Console.WriteLine(nameof(garfiel2.GetHashCode());
 
         }
     }

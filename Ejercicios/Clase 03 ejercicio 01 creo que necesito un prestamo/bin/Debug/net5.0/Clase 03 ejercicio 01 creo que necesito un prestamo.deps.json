@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase 03 ejercicio 01 creo que necesito un prestamo/1.0.0": {
+        "runtime": {
+          "Clase 03 ejercicio 01 creo que necesito un prestamo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 03 ejercicio 01 creo que necesito un prestamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
