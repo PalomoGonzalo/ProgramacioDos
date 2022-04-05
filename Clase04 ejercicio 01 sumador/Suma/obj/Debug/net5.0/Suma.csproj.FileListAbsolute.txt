@@ -1,0 +1,12 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\bin\Debug\net5.0\Suma.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\bin\Debug\net5.0\Suma.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\bin\Debug\net5.0\Suma.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\refint\Suma.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\Suma.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Suma\obj\Debug\net5.0\ref\Suma.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase04 ejercicio 01 sumador", "Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador.csproj", "{23075F5A-84AB-4DEC-BF81-2761B817930F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma", "Suma\Suma.csproj", "{B65E5273-849F-4DDD-88AD-AD6E2F822BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23075F5A-84AB-4DEC-BF81-2761B817930F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23075F5A-84AB-4DEC-BF81-2761B817930F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23075F5A-84AB-4DEC-BF81-2761B817930F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23075F5A-84AB-4DEC-BF81-2761B817930F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65E5273-849F-4DDD-88AD-AD6E2F822BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65E5273-849F-4DDD-88AD-AD6E2F822BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65E5273-849F-4DDD-88AD-AD6E2F822BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65E5273-849F-4DDD-88AD-AD6E2F822BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E66F2E-195D-446F-A1A2-C5951B895E60}
+	EndGlobalSection
+EndGlobal

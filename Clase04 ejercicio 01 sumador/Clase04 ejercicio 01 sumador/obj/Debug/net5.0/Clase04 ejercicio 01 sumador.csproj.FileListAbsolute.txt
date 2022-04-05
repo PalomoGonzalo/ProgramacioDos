@@ -1,0 +1,19 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Clase04 ejercicio 01 sumador.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Clase04 ejercicio 01 sumador.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Clase04 ejercicio 01 sumador.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Clase04 ejercicio 01 sumador.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Clase04 ejercicio 01 sumador.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Clase04 ejercicio 01 sumador.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Suma.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\bin\Debug\net5.0\Suma.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.csproj.CopyComplete
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\refint\Clase04 ejercicio 01 sumador.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\Clase04 ejercicio 01 sumador.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Clase04 ejercicio 01 sumador\Clase04 ejercicio 01 sumador\obj\Debug\net5.0\ref\Clase04 ejercicio 01 sumador.dll
