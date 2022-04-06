@@ -17,3 +17,4 @@ C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\EjercicioDo
 C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\EjercicioDosWindowsForms\EjercicioDosWindowsForms\obj\Debug\net5.0-windows\EjercicioDosWindowsForms.pdb
 C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\EjercicioDosWindowsForms\EjercicioDosWindowsForms\obj\Debug\net5.0-windows\EjercicioDosWindowsForms.genruntimeconfig.cache
 C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\EjercicioDosWindowsForms\EjercicioDosWindowsForms\obj\Debug\net5.0-windows\ref\EjercicioDosWindowsForms.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\EjercicioDosWindowsForms\EjercicioDosWindowsForms\obj\Debug\net5.0-windows\EjercicioDosWindowsForms.AltaAlumno.resources
