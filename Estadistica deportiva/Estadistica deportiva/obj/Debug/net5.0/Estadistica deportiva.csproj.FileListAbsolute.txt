@@ -1,0 +1,19 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Estadistica deportiva.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Estadistica deportiva.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Estadistica deportiva.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Estadistica deportiva.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Estadistica deportiva.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Estadistica deportiva.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Clases.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\bin\Debug\net5.0\Clases.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.csproj.CopyComplete
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\refint\Estadistica deportiva.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\Estadistica deportiva.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Estadistica deportiva\Estadistica deportiva\obj\Debug\net5.0\ref\Estadistica deportiva.dll
