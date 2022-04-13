@@ -20,23 +20,34 @@ namespace JUGADORES_UI
             InitializeComponent();
         }
 
+        public Jugador Jugador
+        {
+            get
+            {
+                return jugadorCrado;
+            }
+        }
+
 
 
         private void btn_alta_Click(object sender, EventArgs e)
         {
             string nombre = tb_nombre.Text;
+
+            EPosicion posSeleccionada = (EPosicion)this.cbxPosicion.SelectedItem;
+
             int.TryParse(this.tb_dni.Text, out int dni);
             int.TryParse(this.tb_nroJugador.Text, out int nroCamiseta);
             int.TryParse(this.tb_goles.Text, out int goles);
 
-            if (string.IsNullOrEmpty(nombre))
-            { 
-                jugadorCrado=new Jugador(dni, nombre, dni, goles,EPosicion.Arquero);
+            
+            
+                jugadorCrado=new Jugador(dni, nombre, dni, goles,posSeleccionada);
                 
                 this.DialogResult = DialogResult.OK;
 
 
-            }
+          
 
 
 

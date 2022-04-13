@@ -27,7 +27,10 @@ namespace Bliblioteca
         private int nroGoles;
         private EPosicion posicion;
 
-
+        static Jugador()
+        {
+            ultimoId = 1;
+        }
         public string getNombre()
         { 
             return nombre;
@@ -54,16 +57,19 @@ namespace Bliblioteca
         
         }
         public Jugador(int dni, String nombre, int nroCamiseta, int nroGoles, EPosicion posicion) : this(dni, nombre)
-        { 
+        {
+            this.id = ultimoId;
             this.nroCamiseta = nroCamiseta;
             this.nroGoles = nroGoles;
             this.posicion = posicion;
+            ultimoId++;
         
         }
 
         public string MostrarInfo()
         { 
             StringBuilder sb=new StringBuilder();
+            sb.AppendLine($"Id{id}");
             sb.AppendLine($"Nombre:{nombre}");
             sb.AppendLine($"Dni:{dni}");
             sb.AppendLine($"Nro camiseta:{nroCamiseta}");

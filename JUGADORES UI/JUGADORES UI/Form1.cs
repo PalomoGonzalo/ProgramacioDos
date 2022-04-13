@@ -23,6 +23,7 @@ namespace JUGADORES_UI
             Jugador jugador2 = new Jugador(32323, "ssss", 2, 3,EPosicion.Delantero);
             jugadores.Add(jugador1);
             jugadores.Add(jugador2);
+            
             //this.richTextBox1.Text += jugador1.MostrarInfo();
             // this.richTextBox1.Text += item.MostrarInfo();
            /* foreach (var item in jugadores)
@@ -41,13 +42,14 @@ namespace JUGADORES_UI
             if (FrmAltaJugador.ShowDialog() == DialogResult.OK)
             {
 
+                jugadores.Add((FrmAltaJugador.Jugador));
+                this.richTextBox1.Clear();
 
                 foreach (var item in jugadores)
                 {
 
-                    this.richTextBox1.Text += item.MostrarInfo();
+                    this.richTextBox1.Text += item.MostrarInfo() + "\n";
                 }
-
 
 
 
@@ -63,7 +65,11 @@ namespace JUGADORES_UI
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            foreach (var item in jugadores)
+            {
 
+                this.richTextBox1.Text += item.MostrarInfo() + "\n";
+            }
         }
 
         /* public void Agregar()
