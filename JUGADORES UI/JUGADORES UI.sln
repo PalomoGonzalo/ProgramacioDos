@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUGADORES UI", "JUGADORES UI\JUGADORES UI.csproj", "{E02C3062-C4CC-468D-9D4F-AE7AA780DB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bliblioteca", "Bliblioteca\Bliblioteca.csproj", "{1972C422-7386-4E87-A932-82B24E613FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02C3062-C4CC-468D-9D4F-AE7AA780DB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02C3062-C4CC-468D-9D4F-AE7AA780DB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02C3062-C4CC-468D-9D4F-AE7AA780DB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02C3062-C4CC-468D-9D4F-AE7AA780DB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1972C422-7386-4E87-A932-82B24E613FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1972C422-7386-4E87-A932-82B24E613FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1972C422-7386-4E87-A932-82B24E613FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1972C422-7386-4E87-A932-82B24E613FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89880217-AF44-4062-B421-07CFAA6E160C}
+	EndGlobalSection
+EndGlobal

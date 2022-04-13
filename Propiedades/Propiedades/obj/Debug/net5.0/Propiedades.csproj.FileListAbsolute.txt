@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\refint\Propiedades.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\Propiedades\Propiedades\obj\Debug\net5.0\ref\Propiedades.dll

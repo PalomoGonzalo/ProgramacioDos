@@ -98,5 +98,10 @@ namespace EjercicioDosWindowsForms
         {
 
         }
+
+        private void agregarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

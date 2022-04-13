@@ -1,0 +1,22 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES_UI.AltaJugador.resources
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES_UI.Form1.resources
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.GenerateResource.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\Bliblioteca.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\bin\Debug\net5.0-windows\Bliblioteca.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.CopyComplete
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\refint\JUGADORES UI.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\JUGADORES UI\JUGADORES UI\obj\Debug\net5.0-windows\ref\JUGADORES UI.dll
