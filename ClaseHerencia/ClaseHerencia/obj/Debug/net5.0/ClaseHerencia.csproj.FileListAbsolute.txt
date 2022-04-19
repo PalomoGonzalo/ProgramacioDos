@@ -1,0 +1,16 @@
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\bin\Debug\net5.0\ClaseHerencia.exe
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\bin\Debug\net5.0\ClaseHerencia.deps.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\bin\Debug\net5.0\ClaseHerencia.runtimeconfig.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\bin\Debug\net5.0\ClaseHerencia.runtimeconfig.dev.json
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\bin\Debug\net5.0\ClaseHerencia.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\bin\Debug\net5.0\ClaseHerencia.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.csproj.AssemblyReference.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.AssemblyInfoInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.AssemblyInfo.cs
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\refint\ClaseHerencia.dll
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.pdb
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ClaseHerencia.genruntimeconfig.cache
+C:\Users\mati_\Documents\Programacion Laboratorio Dos\ProgramacioDos\ClaseHerencia\ClaseHerencia\obj\Debug\net5.0\ref\ClaseHerencia.dll
